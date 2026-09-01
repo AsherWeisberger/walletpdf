@@ -59,7 +59,7 @@ export async function extractPdfText(file: File): Promise<ExtractedPdf> {
     disableFontFace: true,
     isEvalSupported: false,
     useSystemFonts: true,
-  });
+  } as Parameters<typeof getDocument>[0]);
   const pdf = await loadingTask.promise;
   const pages: string[] = [];
 
