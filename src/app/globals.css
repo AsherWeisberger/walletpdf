@@ -1,0 +1,42 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: var(--font-ibm), "IBM Plex Sans", ui-sans-serif, system-ui, sans-serif;
+  --font-display: var(--font-fraunces), Fraunces, ui-serif, Georgia, serif;
+  --color-ink: #0b0d10;
+  --color-panel: #141820;
+  --color-panel-2: #1b212c;
+  --color-line: #2c3340;
+  --color-paper: #ece7dc;
+  --color-mute: #9a9388;
+  --color-brass: #d4b896;
+  --color-brass-dim: #a88964;
+  --color-warn: #c17a5a;
+  --color-ok: #8fad8a;
+}
+
+html,
+body {
+  background: var(--color-ink);
+  color: var(--color-paper);
+}
+
+body {
+  font-family: var(--font-sans);
+  min-height: 100vh;
+}
+
+::selection {
+  background: color-mix(in oklab, var(--color-brass) 40%, transparent);
+  color: var(--color-paper);
+}
+
+.display {
+  font-family: var(--font-display);
+  font-optical-sizing: auto;
+}
+
+.hairline {
+  background: linear-gradient(90deg, transparent, var(--color-line), transparent);
+  height: 1px;
+}

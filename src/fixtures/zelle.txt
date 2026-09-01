@@ -1,0 +1,14 @@
+First National Bank
+Checking Account Statement
+May 2026
+Account ****3312
+
+Date        Description                                 Debit       Credit      Balance
+05/01/2026  Beginning Balance                                                   2,104.55
+05/03/2026  ZELLE FROM CASEY BROOKS                                 600.00      2,704.55
+05/07/2026  ZELLE TO MARCUS HILL                        125.00                  2,579.55
+05/12/2026  POS PURCHASE GROCERY                        64.18                   2,515.37
+05/14/2026  ZELLE FROM RIVER CITY LLC                               1,800.00    4,315.37
+05/20/2026  ZELLE TO UTILITY PAY                        89.00                   4,226.37
+05/22/2026  ACH PAYROLL DEPOSIT                                     2,200.00    6,426.37
+05/29/2026  ZELLE TO JAMIE ORTIZ                        40.00                   6,386.37

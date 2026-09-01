@@ -1,0 +1,13 @@
+Venmo Statement
+March 2026
+Beginning Balance $210.00
+Ending Balance $487.25
+
+Date        Description                                 Amount       Balance
+Mar 02      Payment from Alex Chen - studio rent        +$1,200.00   $1,410.00
+Mar 04      Payment to Pat Singh - supplies             -$86.50      $1,323.50
+Mar 09      Venmo Debit Card - Shell Oil                -$41.20      $1,282.30
+Mar 15      Payment from Morgan Diaz - invoice 14       +$350.00     $1,632.30
+Mar 18      Transfer to Bank                            -$800.00     $832.30
+Mar 22      Payment to Riley Park - lunch               -$24.00      $808.30
+Mar 28      Payment from Client LLC - deposit           +$500.00     $1,308.30

@@ -1,0 +1,16 @@
+PayPal Monthly Statement
+Account: freelancer@example.com
+Period: April 1, 2026 - April 30, 2026
+
+Balance Summary
+Available beginning $1,020.00
+Available ending $2,145.80
+
+Transaction History
+Date        Description                 Name / Email                    Gross       Fee         Net
+04/02/2026  Payment Received            North Studio / billing@north    1,500.00    -43.80      1,456.20
+04/06/2026  Express Checkout Payment    Adobe Inc / adobe.com           -54.99      0.00        -54.99
+04/11/2026  Payment Received            Dana Ortiz / dana@mail.com      275.00      -8.28       266.72
+04/15/2026  Withdrawal to Bank          Chase ****2190                  -800.00     0.00        -800.00
+04/21/2026  Payment Sent                Figma Inc                       -15.00      0.00        -15.00
+04/28/2026  Payment Received            Westbrook Co / pay@westbrook    420.00      -12.51      407.49

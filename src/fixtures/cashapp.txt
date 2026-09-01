@@ -1,0 +1,23 @@
+Cash App
+January 2026 Statement
+Account ending in 4821
+Sutton Bank
+
+Balance on Jan 1    Change this month    Balance on Jan 31
+$412.08             +$1,204.50           $1,616.58
+
+Money In + $2,450.00
+Money Out - $1,245.50
+Fees $0.00
+
+Date        Description           Details              Fee      Amount
+Jan 3       Jordan Lee            Cash App payment     $0.00    +$850.00
+Jan 5       Acme Hardware         Cash Card            $0.00    $42.18
+Jan 8       Direct Deposit        Payroll              $0.00    +$1,200.00
+Jan 12      Sam Rivera            Cash App payment     $0.00    $75.00
+Jan 18      Corner Market         Cash Card            $0.00    $18.44
+Jan 22      Taylor Kim            Cash App payment     $0.00    +$400.00
+Jan 29      ATM Withdrawal        ATM                  $2.50    $102.50
+
+All transactions shown in Eastern Time
+/2 January 2026 Statement
